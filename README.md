@@ -31,6 +31,10 @@ Centralizar as informações do estacionamento em um sistema, facilitando o acom
 
 Plataforma Figma para criação de slides.
 
+## Materiais do projeto
+
+* [Apresentação no Figma](https://www.figma.com/deck/L2Ap5sPnCqDyzplZU4dzfx)
+
 ## Integrantes
 
 Gabriel de Almeida Ribeiro Souza
