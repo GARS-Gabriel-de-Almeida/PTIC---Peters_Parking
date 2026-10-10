@@ -29,7 +29,7 @@ Centralizar as informações do estacionamento em um sistema, facilitando o acom
 
 ## Recursos utilizados
 
-Os recursos e as ferramentas utilizados no desenvolvimento devem ser descritos de acordo com os materiais e as tecnologias efetivamente empregados no projeto.
+Plataforma Figma para criação de slides.
 
 ## Integrantes
 
